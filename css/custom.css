@@ -6,3 +6,8 @@
     content: "\f00c";
     font-family: "Fontawesome";
 }
+
+.myBtn-Work{
+    display: block;
+    margin: 0 auto;
+}
